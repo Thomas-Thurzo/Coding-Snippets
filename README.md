@@ -1,2 +1,2 @@
 # Coding-Snippets
-Für die häufig verwendeten HTML, CSS und JS Code Snippets.
+Für die häufig verwendeten HTML, CSS, Bootstrap und JS Code Snippets.

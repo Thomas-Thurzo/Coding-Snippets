@@ -1,0 +1,29 @@
+/* Tag Selektoren */
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+/* Class Selektoren */
+
+#container {
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#container div {
+    width: 200px;
+    height: 200px;
+    flex-basis: 400px;
+}
