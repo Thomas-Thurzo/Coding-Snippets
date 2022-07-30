@@ -1,0 +1,61 @@
+
+/* Universal Selektor */
+
+* {
+    background-color: bisque;
+}
+
+
+/* Element (Tag) Selektor */
+
+h1 {
+    color: brown;
+    background-color: yellowgreen;
+}
+
+
+/* Kombination von zwei Element Selektoren */
+
+h2, h3 {
+    color: blueviolet;
+    background-color: lightgray;
+}
+
+
+/* ID Selektoren, eine ID darf nur einmal vergeben werden! */
+
+#überschrift1 {
+    color: aliceblue;
+    background-color: burlywood;
+}
+
+
+/* Class Selektoren, kann für mehrere Tags verwendet werden! */
+
+.klasse1 {
+    color: green;
+    background-color: lightblue;
+}
+
+
+/* Descentant Selektoren, alle h4 im body Tag*/
+
+body h4{
+    background-color: cadetblue;
+}
+
+
+/* Pseudo Klassen */
+
+a:hover{
+    background-color: white;
+    color: red;
+}
+
+
+
+
+
+
+
+

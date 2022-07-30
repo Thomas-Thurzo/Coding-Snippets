@@ -1,0 +1,18 @@
+
+/* Tag Selektoren */
+
+h1{
+    color:blue; /* Setzt die Text Farbe */
+    background-color: lightcoral; /* Setzt die Hintergrund Farbe */
+}
+
+button{
+    color: green; /* Setzt die Text Farbe */
+    background-color: aqua; /* Setzt die Hintergrund Farbe */
+}
+
+p{
+    color: olive; /* Setzt die Text Farbe */
+    background-color: aqua; /* Setzt die Hintergrund Farbe */
+}
+

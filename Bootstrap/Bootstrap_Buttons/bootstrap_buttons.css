@@ -1,0 +1,13 @@
+/* ID Selektoren */
+
+#container1 {
+    background-color: aqua;
+    margin: 5% auto;
+}
+
+
+/* Tag Selektoren */
+
+h1 {
+    text-align: center;
+}

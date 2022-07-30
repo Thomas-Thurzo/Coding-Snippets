@@ -1,0 +1,42 @@
+
+/* Tag Selektoren */
+
+h1{
+    text-align: center; /* Zentriert den Text */ 
+    font-family: 'Courier New', Courier, monospace; /* Font-family Stack */
+    background-color: antiquewhite;
+}
+
+h2{
+    text-align: right; /* Setzt den Text rechts */
+    background-color: lightblue;
+}
+
+h3{
+    text-decoration: underline; /* Unterstreicht den Text */
+    font-size: 50px; /* Ändert die Schriftgröße */
+}
+
+h4{
+    letter-spacing: 20px; /* Abstände zwichem dem Text */
+}
+
+
+/* ID Selektoren */
+
+#bold{
+    font-weight: bold; /* Setzt den Text dick */
+}
+
+#durch{
+    text-decoration: line-through; /* Streicht den Text durch */
+}
+
+#farbe{
+    text-decoration: red line-through; /* Streicht den Text in Farbe durch */
+}
+
+#height{
+    line-height: 200%; /* Verändert den Zeilenabstand */
+    text-decoration: underline wavy;
+}

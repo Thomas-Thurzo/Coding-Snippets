@@ -1,0 +1,51 @@
+/* Tag Selektoren */
+
+h1{
+    background-color: rosybrown;
+}
+
+
+/* Class Selektoren */
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: antiquewhite;
+}
+
+.div2{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    background-color: aqua;
+}
+
+.div3{
+    border: 5px black solid; /* Mehrere Attribute zusammengefasst */
+    border-radius: 50%;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.div4{
+    background-color: aqua;
+    padding: 5px;
+    padding-left: 100px;
+}
+
+/* ID Selektoren */
+
+#box1{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+    margin-left: 200px;
+}
+
+#box2{
+    background-color: blueviolet;
+    width: 200px;
+    height: 200px;
+    margin: 0;
+}

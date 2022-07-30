@@ -1,0 +1,20 @@
+
+/* Tag Selektoren */
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+section{
+    background-color: aquamarine;
+    width: 300px; /* Fixe Einheiten */
+    height: 300px;
+}
+
+div{
+    background-color: blue;
+    width: 50%; /* Relative Einheiten sind immer relativ zu Ihrem Eltern Element */
+    height: 50%;
+}

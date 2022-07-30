@@ -1,0 +1,36 @@
+
+/* Tag Selektoren */
+
+h1{
+    text-align: center;
+    background-color: bisque;
+    margin: 50px;
+}
+
+/* Class Selektoren */
+
+.box1{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline;
+    margin: 20px;
+}
+
+.box2{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 20px;
+}
+
+.box3{
+    background-color: aliceblue;
+    border: 1px solid black;
+    display: block;
+    margin: 20px;
+}
+
