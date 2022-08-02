@@ -1,0 +1,71 @@
+/** Import von Google Fonts **/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Source+Code+Pro:wght@200&display=swap');
+
+/** Tag Selektoren **/
+body{
+    background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+    color: #fff;
+}
+
+h1{
+    font-size: 4em;
+    text-align: center;
+    margin-top: 20%;
+    color: #ffffff;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+span {
+    color: #1f1f1f;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+h2, p{
+    text-align: center;
+}
+
+.buttonDiv {
+    text-align: center;
+    margin: 50px;
+}
+
+.loginButton {
+    color: #000;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: transparent;
+    position: relative;
+    width: 100px;
+    cursor: pointer;
+}
+
+
+/** MediaQueries **/
+
+@media screen and (max-width: 1200px){
+    body {
+        background: orange;
+    }
+
+    h1 {
+        font-size: 1em;
+    }
+
+    h2 {
+        font-size: 1em;
+    }
+
+    span {
+        font-size: 1.5em;
+    }
+
+}
+
+@media screen and (max-width: 800px) and (min-width: 600px){
+    body {
+        background: crimson;
+    }
+}
