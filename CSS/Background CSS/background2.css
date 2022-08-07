@@ -1,0 +1,12 @@
+
+/* Möglichkeit 1 */
+
+body {
+    background-image: url('bild1.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+  }
+
