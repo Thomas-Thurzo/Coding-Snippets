@@ -1,11 +1,26 @@
 /* Möglichkeit 1 */
 
-body {
-  background-image: url('./bild.png');
+/*body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./bild.png');
   height: 100vh;
   width: 100%;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
-  filter: brightness(40%);
 }
+*/
+
+
+/* Möglichkeit 2 */
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('./bild.png');
+  height: 100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
